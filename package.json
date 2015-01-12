@@ -1,0 +1,30 @@
+{
+  "name": "react-scrollbar-mixin",
+  "version": "0.0.1",
+  "description": "Detect browser scrollbar show or hide event mixin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xeodou/react-scrollbar-mixin.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "scrollbar",
+    "scrollbar width"
+  ],
+  "peerDependencies": {
+    "react": "0.12.x"
+  },
+  "author": "xeodou@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xeodou/react-scrollbar-mixin/issues"
+  },
+  "homepage": "https://github.com/xeodou/react-scrollbar-mixin",
+  "dependencies": {
+  }
+}
