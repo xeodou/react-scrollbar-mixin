@@ -1,6 +1,5 @@
-var React = require('react');
 
-function ScrollbarMxin(timer) {
+module.exports = function ScrollbarMxin(timer) {
 
   return {
 
@@ -66,5 +65,3 @@ function ScrollbarMxin(timer) {
     }
   }
 }
-
-module.exports = ScrollbarMxin;
